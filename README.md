@@ -6,8 +6,8 @@ Narodil se v roce 1938 v Milwaukee v americkém státě Wisconsin. Původně se 
 
 ## Dílo
 - **Umění programovat**
-- **TeX:** typografický systém
-- **Metafont:** tvorba písmen
+- **TeX** (typografický systém)
+- **Metafont** (tvorba písmen)
 
 ## Ocenění
 - Cena Grace Murray Hopperové (1971)
