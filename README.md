@@ -5,5 +5,13 @@
 Narodil se v roce 1938 v Milwaukee v americkém státě Wisconsin. Původně se chtěl věnovat hudbě. Jeho názor změnila až nabídka stipendia pro studium fyziky na Case Institute of Technology. Později změnil obor z fyziky na matematiku. V roce 1956 se poprvé setkal s počítačem a ihned propadl programování. V roce 1960 získal magisterský titul v oboru matematika na Case Institute a později doktorská titul na California Institute of Technology. Jeho celoživotním dílem je monografie Umění programovat, na které začal pracovat v roce 1962 a v současnosti má již 5 dílů. Tomuto dílu se někdy přezdívá též "programatorská bible". Od roku 1968 působí jako emeritní profesor na Stanfordově univerzitě 
 
 ## Dílo
-- **Umění programovat
-- **TeX:** 
+- **Umění programovat**
+- **TeX:** typografický systém
+- **Metafont:** tvorba písmen
+
+## Ocenění
+- Cena Grace Murray Hopperové (1971)
+- Turingova cena (1974)
+- Národní vyznamenání pro vědu (1979)
+
+![Donald ervin Knuth](https://catonmat.net/wp-content/uploads/2010/02/young-donald-knuth-ibm-650-1958.jpg)
